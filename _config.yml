@@ -1,0 +1,11 @@
+# basic options: this is a comment line. Below are pairs of key and value
+title: Test Blog
+author: Bo Ni
+email: your-email@domain.com
+description: A wonderful site
+twitter_username: test
+github_username:  test
+
+# Build settings
+markdown: kramdown
+theme: minima
